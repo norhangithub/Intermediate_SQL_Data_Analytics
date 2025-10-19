@@ -1,6 +1,6 @@
 # Intermediate SQL - Sales Analysis
 
-I'm pleased to announce that I have successfully finished Intermediate SQL course by Luke Barousse on YouTube. This has been a great experience to sharpen my data manipulation and analysis skills.
+I'm pleased to announce that I have successfully finished Intermediate SQL course by Luke Barousse on YouTube. This has been a great experience to sharpen my data manipulation and analysis skills. And here is the final project for this course.
 
 ## Overview
 Analysis of customer behavior, retention, and lifetime value for an e-commerce company to improve customer retention and maximize revenue.
